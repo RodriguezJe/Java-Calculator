@@ -13,14 +13,14 @@ Features
 
 Setup
 
-1. Clone the Repository:
+1. Clone the Repository
 2. Compile and Run
 
 Usage
 
 - Input numbers and operations: Click buttons to perform calculations.
 - Display: Shows input and results.
-- Clear and Delete :Manage the display content.
+- Clear and Delete: Manage the display content.
 
 License
 
