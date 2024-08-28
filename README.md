@@ -18,7 +18,7 @@ Setup
 
 Usage
 
-- Input numbers and operations:** Click buttons to perform calculations.
+- Input numbers and operations: Click buttons to perform calculations.
 - Display: Shows input and results.
 - Clear and Delete :Manage the display content.
 
