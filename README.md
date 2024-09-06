@@ -1,7 +1,5 @@
 # Java Calculator App
 
-Overview
-
 A simple GUI-based calculator built with Java Swing, offering basic arithmetic operations: addition, subtraction, multiplication, and division.
 
 ## Features
